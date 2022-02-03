@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: ghostwhite;
+    text-align: center;
+    list-style-position: inside;
+}
+
+nav {
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    font-family : papyrus, fantasy;
+    font-size : 45px;
+    text-align : center;
+
+}
+
+article {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size : 15px;
+
+}
+
+.duz-cerceve{
+	border:3px solid rgb(15, 15, 15);
+
+	width:652px;
+	height:402px;
+}
+
+.yazi {
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: left;
+}
